@@ -1,0 +1,6 @@
+scikit-learn
+matplotlib
+xgboost
+fastAPI[all]
+streamlit
+plotly_express
